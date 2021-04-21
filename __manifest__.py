@@ -12,8 +12,8 @@
     ],
     'data': [
         'security/ir.model.access.csv',
-        'views/property_views.xml',
-        'views/project_views.xml',
+        'views/product_views.xml',
+        'views/product_template_views.xml'
     ],
     # 'qweb': ['static/src/xml/*.xml'],
     'installable': True,
