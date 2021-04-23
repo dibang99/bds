@@ -71,4 +71,5 @@
                 name="Sản phẩm"
                 action="product_template_action"
                 parent="main_property"/>
+
 </odoo>
